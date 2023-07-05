@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace ClassAnimal
 {
-     class Animal
+    class Animal
     {
 
         public string Name { get; set; }  // Имя может быть и у парасенка (пример фильм парасенок бэйб))
@@ -20,6 +15,4 @@ namespace ClassAnimal
         }
 
     }
-
-  
 }

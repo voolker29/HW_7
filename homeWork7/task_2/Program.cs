@@ -1,5 +1,4 @@
-﻿using System.Data.Common;
-using task_2;
+﻿using task_2;
 
 var cat = new Cat() ;
 cat.Name = "Breakfest" ;

@@ -1,9 +1,5 @@
 ﻿using FigureClass;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace ClassTriangle
 {
@@ -16,14 +12,11 @@ namespace ClassTriangle
         {
             A = a;
             H = h;
-        
         }
         public override double GetSquare()
 
         {
-
             return 0.5*A*H;
-
         }
 
 

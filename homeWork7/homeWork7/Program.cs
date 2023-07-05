@@ -1,6 +1,5 @@
 ﻿using ClassCircle;
 using ClassSquare;
-using ClassSquare;
 using System.Text;
 using ClassTriangle;
 
@@ -52,11 +51,8 @@ while (true)
 
             var triangle = new Triangle(a,h);
             Console.WriteLine($"S = {triangle.GetSquare()}");
-
             break;
        
-
-
         default:
             Console.WriteLine("Действие не распознано");
             break;

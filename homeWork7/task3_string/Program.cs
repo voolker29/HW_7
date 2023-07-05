@@ -26,16 +26,11 @@ Console.WriteLine("**Выведено есть ли в коолекции чис
 Console.WriteLine(new string('-', 15));
 
 
-
-
-
 void ShowList(List<string> iterationlist)
 {
-
     foreach (string i in iterationlist)
     {
         Console.WriteLine(i);
     }
-
 
 }

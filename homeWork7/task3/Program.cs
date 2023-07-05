@@ -27,9 +27,6 @@ Console.WriteLine(intList.Sum());
 Console.WriteLine(new string('-', 15));
 
 
-
-
-
 void ShowList(List<int> iterationlist)
 {
 
